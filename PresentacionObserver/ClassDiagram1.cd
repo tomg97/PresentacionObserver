@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PresentacionObserver.Entidades.Comprador" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entidades\Comprador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PresentacionObserver.Entidades.Marketplace" BaseTypeListCollapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAIAAAAAAEQAQAAAAEAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Entidades\Marketplace.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.117" />
+  </Class>
+  <Class Name="PresentacionObserver.Entidades.Producto" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAACAAABAIAAAAAAAAAAAAAAAAAIAAgA=</HashCode>
+      <FileName>Entidades\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentacionObserver.Form1" Collapsed="true">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACBAAAAAAgCAAAACAAwAAADAAFCAAAAgAAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentacionObserver.Program" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentacionObserver.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentacionObserver.Properties.Settings" Collapsed="true">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PresentacionObserver.Entidades.IObserver">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PresentacionObserver.Entidades.ISujeto">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\ISujeto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
